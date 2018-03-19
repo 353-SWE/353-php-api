@@ -1,0 +1,3 @@
+ssh ubuntu@ec2-34-243-45-41.eu-west-1.compute.amazonaws.com << EOF
+	./api-deploy
+EOF

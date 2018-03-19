@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 31,
+      "name": "Amazon EC2",
+      "twitter_handle": "awscloud",
+      "status_page": "https:\/\/status.aws.amazon.com",
+      "url": "aws.amazon.com",
+      "created_at": "2017-11-29 00:24:05",
+      "created_at_js": 1511915045,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997859,
+        "status": "block",
+        "title": "Service is operating normally: [RESOLVED] Increased Launch Error Rates",
+        "content": "Between 5:39 AM and 7:02 AM PST we experienced increased error rates for instance launches in a single Availability Zone in the US-EAST-1 Region. Existing instances were unaffected. The issue has been resolved and the service is operating normally.",
+        "created_at": "2018-02-16 10:20:13",
+        "created_at_js": "Friday, 16 February 2018 10:20:13 UTC",
+        "created_at_human": "Feb 16, 4:20am",
+        "last_checked": "5 minutes ago"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Amazon RDS",
+      "twitter_handle": "awscloud",
+      "status_page": "https:\/\/status.aws.amazon.com",
+      "url": "aws.amazon.com",
+      "created_at": "2017-11-29 00:24:05",
+      "created_at_js": 1511915045,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997860,
+        "status": "clear",
+        "title": "Informational message:  [RESOLVED] Network Connectivity",
+        "content": "Between 2:15 PM and 4:30 PM PDT we experienced connectivity issues in the US-EAST-1 Region. The service has recovered and is operating normally.",
+        "created_at": "2018-02-16 10:20:15",
+        "created_at_js": "Friday, 16 February 2018 10:20:15 UTC",
+        "created_at_human": "Feb 16, 4:20am",
+        "last_checked": "5 minutes ago"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Asana",
+      "twitter_handle": "asana",
+      "status_page": "https:\/\/trust.asana.com",
+      "url": "asana.com",
+      "created_at": "2017-12-17 20:48:33",
+      "created_at_js": 1513543713,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997866,
+        "status": "clear",
+        "title": "Partial Outage from 2017-10-20 17:27:00 to 18:10:00 UTC",
+        "content": "Asana had partial downtime today due to an accidental deployment of code to our production servers. This downtime is not correctly reflected on our trust page. The incident has been resolved, and we are currently investigating to more fully understand the situation and how it led to customer impact. We are also looking how this incident was not reflected on our trust page. We will follow up with details when we have them.",
+        "created_at": "2018-02-16 10:20:22",
+        "created_at_js": "Friday, 16 February 2018 10:20:22 UTC",
+        "created_at_human": "Feb 16, 4:20am",
+        "last_checked": "5 minutes ago"
+      }
+    },
+    {
+      "id": 194,
+      "name": "Coveralls",
+      "twitter_handle": "CoverallsApp",
+      "status_page": "http:\/\/status.coveralls.io",
+      "url": "coveralls.io",
+      "created_at": "2018-01-17 14:57:49",
+      "created_at_js": 1516201069,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997909,
+        "status": "clear",
+        "title": "Database upgrades impacting uptime",
+        "content": "This incident has been resolved.",
+        "created_at": "2018-02-16 10:21:13",
+        "created_at_js": "Friday, 16 February 2018 10:21:13 UTC",
+        "created_at_human": "Feb 16, 4:21am",
+        "last_checked": "4 minutes ago"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Github",
+      "twitter_handle": "githubstatus",
+      "status_page": "https:\/\/status.github.com\/messages",
+      "url": "github.com",
+      "created_at": "2017-11-23 20:26:59",
+      "created_at_js": 1511468819,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997938,
+        "status": "clear",
+        "title": "All systems reporting at 100%",
+        "content": "All systems reporting at 100%",
+        "created_at": "2018-02-16 10:21:47",
+        "created_at_js": "Friday, 16 February 2018 10:21:47 UTC",
+        "created_at_human": "Feb 16, 4:21am",
+        "last_checked": "3 minutes ago"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Heroku",
+      "twitter_handle": "herokustatus",
+      "status_page": "https:\/\/status.heroku.com",
+      "url": "heroku.com",
+      "created_at": "2017-11-23 20:26:59",
+      "created_at_js": 1511468819,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997948,
+        "status": "clear",
+        "title": "Resolved: Legacy Heroku Postgres Databases Brownout on Wednesday February 14 at 17:00 UTC (12:00 EST)",
+        "content": "This brownout of legacy Heroku Postgres databases has been completed. Please refer to instructions in our Dev Center to verify that your applications are using SSL to connect to your Postgres database, as well as how to enable SSL connections if needed.",
+        "created_at": "2018-02-16 10:21:58",
+        "created_at_js": "Friday, 16 February 2018 10:21:58 UTC",
+        "created_at_human": "Feb 16, 4:21am",
+        "last_checked": "3 minutes ago"
+      }
+    },
+    {
+      "id": 83,
+      "name": "IFFFT",
+      "twitter_handle": "IFTTT",
+      "status_page": "http:\/\/status.ifttt.com",
+      "url": "ifttt.com",
+      "created_at": "2017-12-12 00:04:02",
+      "created_at_js": 1513037042,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997951,
+        "status": "clear",
+        "title": "The Stocks service is currently paused",
+        "content": "It's back online!",
+        "created_at": "2018-02-16 10:22:01",
+        "created_at_js": "Friday, 16 February 2018 10:22:01 UTC",
+        "created_at_human": "Feb 16, 4:22am",
+        "last_checked": "3 minutes ago"
+      }
+    },
+    {
+      "id": 128,
+      "name": "npm",
+      "twitter_handle": "npmstatus",
+      "status_page": "https:\/\/status.npmjs.org",
+      "url": "npmjs.org",
+      "created_at": "2018-01-02 00:08:16",
+      "created_at_js": 1514851696,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1997986,
+        "status": "clear",
+        "title": "some publishes appear to succeed but don't",
+        "content": "We haven't seen this bug recur in 24 hours of monitoring.",
+        "created_at": "2018-02-16 10:22:52",
+        "created_at_js": "Friday, 16 February 2018 10:22:52 UTC",
+        "created_at_human": "Feb 16, 4:22am",
+        "last_checked": "2 minutes ago"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Slack",
+      "twitter_handle": "slackstatus",
+      "status_page": "https:\/\/status.slack.com",
+      "url": "slack.com",
+      "created_at": "2017-11-23 20:27:00",
+      "created_at_js": 1511468820,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1998027,
+        "status": "clear",
+        "title": "GIF Keyboard app not working",
+        "content": "We're glad to share that this issue is fixed. Thanks so much for being patient while the app developers issued a resolution.Thanks for waiting while we worked to fix the trouble with notifications! You should now be receiving those normally once again, but if you notice anything strange, please let us know. We greatly appreciate your patience.Things are looking brighter once again! You should no longer be facing delays with link previews, search, the Events API, and message threads. Sorry for the trouble. We hope the rest of your day goes smoothly!Everything should now be back to normal with Do Not Disturb for all workspaces. We're really sorry for the disruption this caused. If you are seeing any further issues with Do Not Disturb, please let us know. Thank you.All users should now be receiving their Android notifications once more. We are taking the necessary steps so this doesn't happen in future. Your patience and understanding is so greatly appreciated. Thank you.Our emails should be making their way to you successfully once again! We are sorry about the trouble receiving those, and please write to us if you're still having problems. Thanks!All workspaces should now be able to connect once again. Thanks so much for your patience while we worked to bring everything back to normal!Looks like we're out of the woods \u2014 sorry for the disruption, everybody. Do let us know if you hit trouble connecting to Slack. Meanwhile, we'll dig into what happened.We've made some changes and the reports are looking very promising. You should be able to connect to your workspaces once more. Please do let us know if not. Thank you for sticking with us through that, we truly appreciate it.Search should now be working properly again for all workspaces. We're sorry for the trouble, and thank you for bearing with us today.A tentative all clear: It's been a good while since we heard any new reports of trouble, and those reports we have heard seem to be resolved. We're continuing to investigate the cause of the issue. Please just let us know if you have trouble connecting to Slack. Sorry for the trouble, India (and, indeed, beyond, if applicable).We've just issued a fix for this problem, and are receiving reports that it's resolved. You may need to refresh your app to see the fix. \r\n\r\nWe're deeply sorry for the disruption but thank you again for your patience.",
+        "created_at": "2018-02-16 10:23:46",
+        "created_at_js": "Friday, 16 February 2018 10:23:46 UTC",
+        "created_at_human": "Feb 16, 4:23am",
+        "last_checked": "1 minute ago"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Travis CI",
+      "twitter_handle": "traviscistatus",
+      "status_page": "https:\/\/www.traviscistatus.com",
+      "url": "travis-ci.com",
+      "created_at": "2017-11-23 20:27:00",
+      "created_at_js": 1511468820,
+      "tickers_count": null,
+      "latest_event": {
+        "id": 1998041,
+        "status": "clear",
+        "title": "Log delivery and backlogs",
+        "content": "We've finally cleared the remaining backlog of Mac builds hence, we are resolving the incident. Thank you for your patience!",
+        "created_at": "2018-02-16 10:24:04",
+        "created_at_js": "Friday, 16 February 2018 10:24:04 UTC",
+        "created_at_human": "Feb 16, 4:24am",
+        "last_checked": "1 minute ago"
+      }
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "@type": "builds",
+  "@href": "/repo/3696003/builds?limit=10",
+  "@representation": "standard",
+  "@pagination": {
+    "limit": 10,
+    "offset": 0,
+    "count": 457,
+    "is_first": true,
+    "is_last": false,
+    "next": {
+      "@href": "/repo/3696003/builds?limit=10&offset=10",
+      "offset": 10,
+      "limit": 10
+    },
+    "prev": null,
+    "first": {
+      "@href": "/repo/3696003/builds?limit=10",
+      "offset": 0,
+      "limit": 10
+    },
+    "last": {
+      "@href": "/repo/3696003/builds?limit=10&offset=450",
+      "offset": 450,
+      "limit": 10
+    }
+  },
+  "builds": [
+    {
+      "@type": "build",
+      "@href": "/build/67615932",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67615932,
+      "number": "459",
+      "state": "passed",
+      "duration": 464,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-07T11:17:02Z",
+      "finished_at": "2018-03-07T11:24:46Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104641787,
+        "sha": "08a47467e7a4f1cc1967d60d2a4ee9afeff1ed66",
+        "ref": "refs/heads/master",
+        "message": "verbale 06/03",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/d2e4d7893a8a...08a47467e7a4",
+        "committed_at": "2018-03-07T11:16:12Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113549942",
+          "@representation": "minimal",
+          "id": 113549942
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/391306",
+        "@representation": "minimal",
+        "id": 391306,
+        "login": "Stocci"
+      },
+      "updated_at": "2018-03-07T11:24:46.806Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67614297",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67614297,
+      "number": "458",
+      "state": "passed",
+      "duration": 489,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-07T10:58:35Z",
+      "finished_at": "2018-03-07T11:06:44Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104639128,
+        "sha": "d2e4d7893a8a94b703ddc90e13b7f30bfb3e98c1",
+        "ref": "refs/heads/master",
+        "message": "modifica diari",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/bdda6a895a60...d2e4d7893a8a",
+        "committed_at": "2018-03-07T10:57:56Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113546989",
+          "@representation": "minimal",
+          "id": 113546989
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/391306",
+        "@representation": "minimal",
+        "id": 391306,
+        "login": "Stocci"
+      },
+      "updated_at": "2018-03-07T11:06:44.981Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67573103",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67573103,
+      "number": "457",
+      "state": "passed",
+      "duration": 429,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T23:31:42Z",
+      "finished_at": "2018-03-06T23:38:51Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104572725,
+        "sha": "bdda6a895a600f0727889dbe22f82e59a70722f4",
+        "ref": "refs/heads/master",
+        "message": "Rimosso file temporaneo, manca ancora il diario",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/f21b33181770...bdda6a895a60",
+        "committed_at": "2018-03-06T23:29:23Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113472524",
+          "@representation": "minimal",
+          "id": 113472524
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T23:38:51.314Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67566463",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67566463,
+      "number": "456",
+      "state": "passed",
+      "duration": 430,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T22:24:15Z",
+      "finished_at": "2018-03-06T22:31:25Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104561663,
+        "sha": "f21b33181770be5a8d7e24a4500f6664f8b9c240",
+        "ref": "refs/heads/master",
+        "message": "Segnate tutte le immagini errate da rifare",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/d669f1ee53c9...f21b33181770",
+        "committed_at": "2018-03-06T22:14:51Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113459634",
+          "@representation": "minimal",
+          "id": 113459634
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T22:31:25.504Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67565976",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67565976,
+      "number": "455",
+      "state": "passed",
+      "duration": 468,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T22:15:38Z",
+      "finished_at": "2018-03-06T22:23:26Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104560849,
+        "sha": "d669f1ee53c93a9449caf10edb1c16ef6a8f76b3",
+        "ref": "refs/heads/master",
+        "message": "Aggiustato riepilogo",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/a3034e0f2569...d669f1ee53c9",
+        "committed_at": "2018-03-06T22:09:33Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113458557",
+          "@representation": "minimal",
+          "id": 113458557
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T22:23:26.115Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67565606",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67565606,
+      "number": "454",
+      "state": "passed",
+      "duration": 489,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T22:06:50Z",
+      "finished_at": "2018-03-06T22:14:59Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104560247,
+        "sha": "a3034e0f2569ab526441d225a60b6e41605f13f8",
+        "ref": "refs/heads/master",
+        "message": "Corretto UC6",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/1f7addb5eff5...a3034e0f2569",
+        "committed_at": "2018-03-06T22:05:47Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113457839",
+          "@representation": "minimal",
+          "id": 113457839
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T22:15:00.102Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67563949",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67563949,
+      "number": "453",
+      "state": "passed",
+      "duration": 463,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T21:51:01Z",
+      "finished_at": "2018-03-06T21:58:44Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104557607,
+        "sha": "1f7addb5eff51e959cc4b996e31d768f01cab308",
+        "ref": "refs/heads/master",
+        "message": "Segnati un pacco di TODO da fare",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/b3cf27892bf7...1f7addb5eff5",
+        "committed_at": "2018-03-06T21:50:00Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113454938",
+          "@representation": "minimal",
+          "id": 113454938
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T21:58:44.203Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67562123",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67562123,
+      "number": "452",
+      "state": "passed",
+      "duration": 466,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T21:32:18Z",
+      "finished_at": "2018-03-06T21:40:04Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104554601,
+        "sha": "b3cf27892bf7d4c77a2db5d3ea2659ee567458e8",
+        "ref": "refs/heads/master",
+        "message": "Fix requisiti",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/9a8c1b1afd31...b3cf27892bf7",
+        "committed_at": "2018-03-06T21:31:05Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113451403",
+          "@representation": "minimal",
+          "id": 113451403
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/389847",
+        "@representation": "minimal",
+        "id": 389847,
+        "login": "M9k"
+      },
+      "updated_at": "2018-03-06T21:40:04.814Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67556918",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67556918,
+      "number": "451",
+      "state": "passed",
+      "duration": 514,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T20:40:24Z",
+      "finished_at": "2018-03-06T20:48:58Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104545910,
+        "sha": "9a8c1b1afd3120856522420300ebd8c2bc85cb00",
+        "ref": "refs/heads/master",
+        "message": "Corretto spazio",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/a41ff4378fa7...9a8c1b1afd31",
+        "committed_at": "2018-03-06T20:39:32Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113440987",
+          "@representation": "minimal",
+          "id": 113440987
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/390014",
+        "@representation": "minimal",
+        "id": 390014,
+        "login": "elenamattiazzo"
+      },
+      "updated_at": "2018-03-06T20:48:58.213Z"
+    },
+    {
+      "@type": "build",
+      "@href": "/build/67554877",
+      "@representation": "standard",
+      "@permissions": { "read": true, "cancel": true, "restart": true },
+      "id": 67554877,
+      "number": "450",
+      "state": "passed",
+      "duration": 489,
+      "event_type": "push",
+      "previous_state": "passed",
+      "pull_request_title": null,
+      "pull_request_number": null,
+      "started_at": "2018-03-06T20:19:05Z",
+      "finished_at": "2018-03-06T20:27:14Z",
+      "repository": {
+        "@type": "repository",
+        "@href": "/repo/3696003",
+        "@representation": "minimal",
+        "id": 3696003,
+        "name": "Marvin-Documentazione---353",
+        "slug": "M9k/Marvin-Documentazione---353"
+      },
+      "branch": {
+        "@type": "branch",
+        "@href": "/repo/3696003/branch/master",
+        "@representation": "minimal",
+        "name": "master"
+      },
+      "tag": null,
+      "commit": {
+        "@type": "commit",
+        "@representation": "minimal",
+        "id": 104542497,
+        "sha": "a41ff4378fa7775efe511d9cfc27dfbe69c0e6c1",
+        "ref": "refs/heads/master",
+        "message": "Verbale 02/03",
+        "compare_url":
+          "https://github.com/M9k/Marvin-Documentazione---353/compare/58e50acfbb58...a41ff4378fa7",
+        "committed_at": "2018-03-06T20:18:16Z"
+      },
+      "jobs": [
+        {
+          "@type": "job",
+          "@href": "/job/113437367",
+          "@representation": "minimal",
+          "id": 113437367
+        }
+      ],
+      "stages": [],
+      "created_by": {
+        "@type": "user",
+        "@href": "/user/390014",
+        "@representation": "minimal",
+        "id": 390014,
+        "login": "elenamattiazzo"
+      },
+      "updated_at": "2018-03-06T20:27:14.662Z"
+    }
+  ]
+}
