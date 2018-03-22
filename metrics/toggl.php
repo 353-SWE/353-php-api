@@ -8,10 +8,12 @@ $found = $matches[0];
 if(sizeof($found) > 0){
   $data["role"] = str_replace('[', '', $found[0]);
   $data["role"] = str_replace(']', '', $data['role']);
+  $data['role'] = strtoupper($data['role']);
 }
 if(sizeof($found) > 1){
   $data["detail"] = str_replace('[', '', $found[1]);
   $data["detail"] = str_replace(']', '', $data['detail']);
+  $data["detail"] = strtolower($data['detail']);
 }
 
 
